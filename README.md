@@ -20,6 +20,12 @@ These issues reduce the effectiveness of data analytics and delay decision-makin
 
 ---
 
+🖼️ Interface Preview
+
+![Interface](./images/Interface.png)
+
+![Notepad](./images/Notepad.png) 
+
 ## Solution
 
 To address this, I developed a lightweight Java application that:
